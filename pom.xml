@@ -80,7 +80,7 @@
 
         <!-- 关系型数据库版本依赖 -->
         <postgre.version>42.0.0</postgre.version>
-        <mysql.version>8.0.12</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
 
 
         <!-- NO SQL 相关版本依赖 -->
